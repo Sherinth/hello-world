@@ -24,8 +24,13 @@ public class Section_01 {
 		
 		System.out.println(driver1.getTitle());
 		System.out.println(driver2.getTitle());
+<<<<<<< HEAD
+		System.out.println("first stage needs to be updated by Shukur");
+		System.out.println("what the hell B1");
+=======
 		System.out.println("la la la");
 		System.out.println("Chiqildim");
+>>>>>>> branch 'branch_01' of https://github.com/Sherinth/hello-world.git
 
 	}
 }
